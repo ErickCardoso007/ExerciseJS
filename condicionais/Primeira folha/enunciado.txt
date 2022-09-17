@@ -1,0 +1,41 @@
+1- Escreva algoritimos em Descrição Narrativa e Fluxograma para sulocionar os problemas abaixo:
+
+1.1 - Somar três números:
+1.2 - Mostrar o resultado da divisão de dois números:
+1.3 - A partir do ano de nascimento de uma pessoa, calcular, aproximadamente, a sua idade e
+informar se esta pessoa é maior de idade ou não:
+1.4 - Calcular a média aritmética entre duas notas de um aluno e mostrar a seguinte situação:
+APROVADO para média igual ou superior a 5, REPROVADO, caso contrário.
+
+2- Tranforme as seguintes Descrição Narrativa em Fluxograma:
+
+2.1 - DN dividir I:
+    Passo 01 - Receber os dois números que serão divididos;
+    Passo 02 - Se o segundo número for igual a zero, não
+    poderá ser feita a divisão, pois não existe divisão por
+    zero; caso contrário, dividir os números e mostrar
+    o resultado da divisão.
+
+2.2 - DN dividir II:
+    Passo 01 - Receber o numerador da divisão;
+    Passo 02 - Receber o denominador da divisão;
+    Passo 03 - Se o denominador da divisão for igual a zero, receber novamente 
+    o denominador da divisão;
+    Passo 04 - dividir o numerador pelo denominador e mostrar o resultado.
+
+2.3 - DN reajuste :
+    Passo 01 - Receber o salário atual do funcionário;
+    Passo 02 - Se o salário atual do funcionário for de até R$2.500,00, calcular o novo salário 
+    com percentual de aumento de 20%; caso contrário, calcular o novo salário com percentual de
+    aumento de 10%
+    Passo 03 - mostrar o novo salário.
+
+2.4 - DN resultado:
+    Passo 01 - Receber 4 notas;
+    Passo 02 - Calcular a média aritmética
+    Passo 03 - Mostrar a média aritmética
+    Passo 04 - Se a média for igual ou superior a 7, informar que o aluno está APROVADO, senão, 
+    se a média for menor que 7, mas maior ou igual a 4, informar que o aluno está em EXAME, se 
+    a média for menor que 4, informar que o aluno está REPROVADO.
+    
+
