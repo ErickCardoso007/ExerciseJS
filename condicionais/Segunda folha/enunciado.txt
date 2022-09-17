@@ -1,0 +1,121 @@
+1) Faça um programa que receba dois números, calcule e
+mostre a subtração do primeiro pelo segundo.
+
+2) Faça um programa que receba três números, calcule e
+mostre a multiplicação entre eles.
+
+3) Faça um algoritmo que recebe quatro números inteiros,
+calcule e mostre a soma desses números.
+
+4) Faça um programa que receba três notas, calcule e mostre
+a média aritmética entre elas.
+
+5) Faça um programa que receba o peso de uma pessoa em
+quilos, calcule e mostre esse peso em gramas.
+
+6) Faça um programa que recebe o preço de etiqueta de um
+produto e em seguida informe o preço deste produto se o
+pagamento for à vista (10% de desconto), em duas parcelas
+(valor de etiqueta) ou em quatro parcelas (5% de
+acréscimo)
+
+7) Faça um programa que receba o salário de um funcionário,
+calcule e mostre o novo salário, sabendo-se que este sofreu
+um aumento de 25%.
+
+8) Faça um programa que recebe o salário de um funcionário
+e o percentual de aumento, calcule e mostre o valor do
+aumento e o novo salário.
+
+9) Faça um programa que receba o salário base de um
+funcionário, calcule e mostre o salário a receber sabendo-
+se que o funcionário tem gratificação de 5% sobre o salário
+base e paga imposto de 7% sobre o salário com a
+gratificação.
+
+10)Faça um programa que leia o nome e a data de nascimento
+de uma pessoa (dia, mês e ano), e após informe, junto ao
+nome da pessoa, quantos dias esta pessoa já viveu. Para
+simplificar o cálculo considere que todos os meses
+possuem 30 dias, e todos os anos 365 dias.
+
+11)Faça um programa que leia duas informações do usuário,
+primeiro deve ser lido o SOBRENOME e depois o NOME
+de uma pessoa, e após o programa deve exibir a seguinte
+mensagem: “Sr(a). <NOME> <SOBRENOME>, é uma
+honra contar com sua presença!”.
+
+12)Faça um programa que receba o valor dos catetos de um
+triângulo, calcule e mostre o valor da hipotenusa.
+(bi=c Ho).
+
+13)Faça um programa que calcule e mostre a área de um
+triângulo. Sabe-se que: Área = (base * altura)/2.
+
+14)Faça um programa que calcule e mostre a área de um
+círculo. Sabe-se que: Área = 1 * R?.
+
+15)Faça um programa que solicite um número positivo e
+maior que zero, calcule e mostre:
+
+a) o número digitado ao quadrado;
+
+b) o número digitado ao cubo;
+
+c) a raiz quadrada do número digitado;
+
+d) a raiz cúbica do número digitado.
+
+16)Faça um programa que receba dois números, calcule e
+mostre o primeiro número elevado ao segundo.
+
+17) Sabe-se que:
+1 pé = 12 polegadas;
+1 jarda = 3 pés;
+1 milha = 1760 jardas.
+Faça um programa que receba uma medida em pés, faça as
+conversões a seguir e mostre os resultados.
+a) Polegadas;
+b) Jardas;
+c) Milhas.
+
+18)Faça um programa que receba o ano de nascimento de uma
+pessoa e o ano atual, calcule e mostre:
+
+a) a idade desta pessoa;
+
+b) quantos anos ela terá em 2050.
+
+19) O custo ao consumidor de um carro novo é a soma do
+preço de fábrica com o percentual de lucro do distribuidor
+e dos impostos aplicados ao preço de fábrica. Faça um
+programa que recebe o preço de fábrica de um veículo, o
+percentual de lucro do distribuidor e o percentual de
+impostos, calcule e mostre:
+
+a) o valor correspondente ao lucro do distribuidor;
+
+b) o valor correspondente aos impostos;
+
+c) o preço final do veículo.
+
+20) Faça um programa que receba o número de horas
+trabalhadas e o valor do salário mínimo, calcule e mostre o
+salário a receber seguindo estas regras:
+
+a) a hora trabalhada vale 1 10 do salário mínimo;
+
+b) o salário bruto equivale ao número de horas trabalhadas
+multiplicado pelo valor da hora trabalhada;
+
+c) o imposto equivale a 3% do salário bruto;
+
+d) o salário a receber equivale ao salário bruto menos o
+imposto.
+
+21)Faça um programa que receba uma hora (uma variável
+para hora e outra para minutos), calcule e mostre:
+a) a hora digitada convertida em minutos;
+b) o total dos minutos, ou seja, os minutos digitados mais a
+conversão anterior;
+c) o total dos minutos convertidos em segundos.
