@@ -9,13 +9,9 @@ let catetoOposto = parseFloat(prompt("Digite o valor do cateto oposto do triâng
 
 let x = valorCatetos + catetoOposto
 let y = Math.sqrt(x)
+alert('O valor da hipotenusa é ' + y)
 
-if (y == NaN) {
-    alert('O número da raiz é negativa. Tente novamente!')
-    location.reload()
-} else {
-    alert('O valor da hipotenusa é ' + y)
-}
+
 
 
 
