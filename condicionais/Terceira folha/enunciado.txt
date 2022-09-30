@@ -1,0 +1,56 @@
+EXERCÍCIOS — ESTRUTURA DE DECISÃO
+
+1. Construa um algoritmo que leia dois valores numéricos inteiros e efetue a adição; caso o
+resultado seja maior que 50, apresentá-lo.
+
+2. Escreva um algoritmo que leia o valor unitário e a quantidade vendida de um produto e
+apresente o valor total da venda. Caso o valor total da venda seja superior a R$ 100,00 mostrar a
+mensagem “Bonificação de 10% para o vendedor!”.
+
+3. Construa um algoritmo que determine (imprima) se um dado número N inteiro, recebido
+através do teclado, é PAR ou IMPAR.
+
+4. Escreva um algoritmo para determinar se um dado número N, recebido através do teclado, é
+POSITIVO, NEGATIVO ou NULO.
+
+5. Construir um algoritmo que leia dois números e efetue a adição. Caso o valor somado seja
+maior que 20, este deverá ser apresentado somando-se a ele mais 8; caso o valor somado seja menor
+ou igual a 20, este deverá ser apresentado subtraindo-se 5.
+
+6. Escreva um algoritmo que leia um número e imprima a raiz quadrada do número, caso ele seja
+positivo ou igual a zero; e o quadrado do número, caso ele seja negativo.
+
+7. Escreva um algoritmo que receba um número e imprima uma das mensagens: “é múltiplo de
+3” ou “não é múltiplo de 3”.
+
+8. Escreva um algoritmo para determinar se um número A é divisível por um outro número B.
+Esses valores devem ser fornecidos pelo usuário.
+
+9. Construa um algoritmo que imprima qual o menor e qual o maior valor de dois números A e
+B, lidos através do teclado.
+
+10. A prefeitura de Contagem abriu uma linha de crédito para os funcionários estatutários. O valor
+máximo da prestação não poderá ultrapassar 30% do salário bruto. Fazer um algoritmo que permita
+entrar com o salário bruto e o valor da prestação, e informar se o empréstimo pode ou não ser
+concedido.
+
+11. Construa um algoritmo que, dado quatro valores, A, B, C e D, o algoritmo diga qual é o maior
+e o menor valor.
+
+12. Dados três valores A, Be C, construa um algoritmo que mostre os valores de forma
+ascendente (do menor para o maior).
+
+13. Dados três valores A, Be C, construa um algoritmo que mostre os valores de forma
+descendente.
+
+14. Escreva um algoritmo que leia um número e informe se ele é divisível por 10, por 5 ou por 2
+ou se não é divisível por nenhum deles.
+
+15. Construa um algoritmo que indique se um número digitado está compreendido entre 20 e 90
+ou não (20 e 90 não estão na faixa de valores).
+
+16. Construir um algoritmo que leia um número e imprima se ele é igual a 5, a 200, a 400, se está
+no intervalo entre 500 e 1000, inclusive, ou se ela está fora dos escopos anteriores.
+
+17. Criar um algoritmo que leia dois números e mostre o quadrado do menor número e raiz
+quadrada do maior número, se for possível.
