@@ -1,4 +1,6 @@
-## Praticando a lógica de programção com exercícios de algoritomos utilizando Javascript.
+<h2 align="center"> Praticando a lógica de programção com exercícios de algoritomos utilizando Javascript.</h2>
+</br>
+</br>
 
 ![image](https://user-images.githubusercontent.com/88493966/193296318-2525e51c-e7dd-4170-891b-78f60cef0dc9.png)
 
